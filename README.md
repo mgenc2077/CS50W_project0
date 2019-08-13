@@ -1,7 +1,5 @@
 # Project 0
 
-Web Programming with Python and JavaScript
-
 In project0 i made my own website using html,css,sass and bootstrap.
 index.html = main html of the website.
 hakkimda.html = a short paragraph about myself.
